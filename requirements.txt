@@ -1,0 +1,14 @@
+# Core RealSense SDK
+pyrealsense2==2.54.2.5684
+
+# Numerical Computing & Array Processing
+numpy>=1.21.0,<2.0.0
+
+# Computer Vision
+opencv-python>=4.5.3,<5.0.0
+
+# Image Processing
+Pillow>=10.0.0,<11.0.0
+
+# Nuitka Compiler
+Nuitka>=2.8.4,<3.0.0
